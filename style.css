@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+
+*
+{
+  
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+h1
+{
+  
+  text-align: center;
+  margin: 50px;
+  
+}
+
+iframe
+{
+  
+  height: 50vh;
+  width: 50vw;
+  border: 10px solid black;
+  border-radius: 10px;
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%)
+  
+}
+
+.page2
+{
+  
+  background-color: blue;
+  
+}
+
+div
+{
+  
+  position: relative;
+  
+}
